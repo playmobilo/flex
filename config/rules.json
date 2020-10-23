@@ -1,0 +1,9 @@
+{
+ "1": {"name": "Forbidden communications between the SRC and DST device!" },
+ 
+ "2": {"name": "SRC cannot communicate with DST!"},
+
+ "3": {"name": "SRC can communicate only in LAN!"},
+
+ "4": {"name": "Do not forward packets to this DST address!"}
+}

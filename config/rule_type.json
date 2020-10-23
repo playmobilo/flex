@@ -1,0 +1,5 @@
+{
+ "1": {"name": "Alert if rule is violated." },
+ 
+ "2": {"name":"Forbid the whole communications according to the rule."}
+}
