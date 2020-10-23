@@ -1,4 +1,4 @@
 {
   "active_rules": [1,2,3,4],
-  "alert": ["email"]
+  "alert_type": [1,2]
 }
